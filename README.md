@@ -1,2 +1,24 @@
 # responsive-image-gallery
-A responsive image gallery with lightbox, filters, and smooth transitions using HTML, CSS, and JavaScript
+A simple and responsive Image Gallery built using HTML, CSS, and JavaScript.
+Includes lightbox view, next/prev navigation, hover effects, transitions, and image filters.
+
+**Features**
+Fully Responsive Layout
+
+Lightbox with next/previous buttons
+
+Hover Effects on images
+
+Smooth CSS Transitions
+
+Category Filters (Bonus feature)
+
+Clean & Modern UI
+
+ **Technologies Used**
+ 
+HTML5
+
+CSS3
+
+JavaScript (ES6)
